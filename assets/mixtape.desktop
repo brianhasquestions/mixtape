@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=mixtape
+Comment=Build playlists from your local music library
+Exec=mixtape
+Icon=mixtape
+Terminal=false
+Categories=AudioVideo;Audio;Music;
+Keywords=playlist;m3u;music;
+StartupWMClass=mixtape
